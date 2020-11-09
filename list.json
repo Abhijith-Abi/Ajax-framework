@@ -1,0 +1,39 @@
+{
+  "list": [
+    {
+      "no": "1",
+      "item": "Rice",
+      "quantity": "5",
+      "unit": "Kg",
+      "department": "Grocery"
+    },
+    {
+      "no": "2",
+      "item": "Apple",
+      "quantity": "25",
+      "unit": "Kg",
+      "department": "Grocery"
+    },
+    {
+      "no": "3",
+      "item": "Orange",
+      "quantity": "30",
+      "unit": "Kg",
+      "department": "Grocery"
+    },
+    {
+      "no": "4",
+      "item": "Mango",
+      "quantity": "15",
+      "unit": "Kg",
+      "department": "Grocery"
+    },
+    {
+      "no": "5",
+      "item": "Salt",
+      "quantity": "10",
+      "unit": "Kg",
+      "department": "Grocery"
+    }
+  ]
+}
